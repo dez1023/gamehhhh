@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "3bcyVX/A7Uk=",
+  "success": true,
+  "projectFilePath": "G:\\Gerraria\\Gerraria.Simulator\\Gerraria.Simulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jerry\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.10\\microsoft.extensions.objectpool.8.0.10.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\microsoft.jsinterop\\3.1.28\\microsoft.jsinterop.3.1.28.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\microsoft.web.webview2\\1.0.2739.15\\microsoft.web.webview2.1.0.2739.15.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\microsoft.web.webview2.devtoolsprotocolextension\\1.0.2271\\microsoft.web.webview2.devtoolsprotocolextension.1.0.2271.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\opensilver\\3.1.2\\opensilver.3.1.2.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\opensilver.simulator\\3.1.2\\opensilver.simulator.3.1.2.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\system.componentmodel.composition\\6.0.0\\system.componentmodel.composition.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\system.security.cryptography.xml\\8.0.2\\system.security.cryptography.xml.8.0.2.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\system.servicemodel.primitives\\8.1.0\\system.servicemodel.primitives.8.1.0.nupkg.sha512",
+    "C:\\Users\\Jerry\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
